@@ -11,6 +11,13 @@ GitHub username:amarascic
 
 ---
 
+## Uvod
+
+Moje ime Amar Ascic. Radim zadacu za predmet RTPP. Ucim koristiti Git alate.
+
+
+---
+
 ## Opis zadatka
 
 Cilj ovog zadatka je da uvježbate osnovne Git operacije:
